@@ -1,0 +1,137 @@
+{
+    "_": "Message",
+    "id": 416,
+    "from_user": {
+        "_": "User",
+        "id": 1028272649,
+        "is_self": false,
+        "is_contact": false,       
+        "is_mutual_contact": false,
+        "is_deleted": false,       
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "is_premium": false,
+        "first_name": "Fox",
+        "status": "UserStatus.RECENTLY",
+        "username": "WolfBanner",
+        "language_code": "es",
+        "dc_id": 1,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADzacxGwkySj0AEAIAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "small_photo_unique_id": "AgADzacxGwkySj0",
+            "big_file_id": "AQADAQADzacxGwkySj0AEAMAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "big_photo_unique_id": "AgADzacxGwkySj0"
+        }
+    },
+    "date": "2023-03-21 22:42:14",
+    "chat": {
+        "_": "Chat",
+        "id": 1028272649,
+        "type": "ChatType.PRIVATE",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "WolfBanner",
+        "first_name": "Fox",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADzacxGwkySj0AEAIAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "small_photo_unique_id": "AgADzacxGwkySj0",
+            "big_file_id": "AQADAQADzacxGwkySj0AEAMAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "big_photo_unique_id": "AgADzacxGwkySj0"
+        },
+        "dc_id": 1
+    },
+    "forward_from_chat": {
+        "_": "Chat",
+        "id": -1001138726839,
+        "type": "ChatType.CHANNEL",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_creator": false,
+        "is_scam": false,
+        "is_fake": false,
+        "title": "APK FULL 2000",
+        "username": "ApkFull2000",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADvacxG7P12U8AEAIAA0lYe-cW____OTVehrs_060ABB4E",
+            "small_photo_unique_id": "AgADvacxG7P12U8",
+            "big_file_id": "AQADAQADvacxG7P12U8AEAMAA0lYe-cW____OTVehrs_060ABB4E",
+            "big_photo_unique_id": "AgADvacxG7P12U8"
+        },
+        "dc_id": 1,
+        "has_protected_content": false
+    },
+    "forward_from_message_id": 10294,
+    "forward_date": "2022-12-07 15:32:34",
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "media": "MessageMediaType.DOCUMENT",
+    "has_protected_content": false,
+    "caption_entities": [
+        {
+            "_": "MessageEntity",
+            "type": "MessageEntityType.BOLD",
+            "offset": 5,
+            "length": 16
+        },
+        {
+            "_": "MessageEntity",
+            "type": "MessageEntityType.TEXT_LINK",
+            "offset": 207,
+            "length": 23,
+            "url": "https://link-center.net/550418/firewall"
+        },
+        {
+            "_": "MessageEntity",
+            "type": "MessageEntityType.MENTION",
+            "offset": 257,
+            "length": 12
+        },
+        {
+            "_": "MessageEntity",
+            "type": "MessageEntityType.BOLD",
+            "offset": 257,
+            "length": 12
+        },
+        {
+            "_": "MessageEntity",
+            "type": "MessageEntityType.TEXT_LINK",
+            "offset": 291,
+            "length": 22,
+            "url": "http://t.me/ChannelsCommunity"
+        }
+    ],
+    "document": {
+        "_": "Document",
+        "file_id": "BQACAgQAAxkBAAIBoGQaJLZHckN7TsWi6-jmrUlslSshAAI6EQAC8ciAUKvG6zpMusWdHgQ",
+        "file_unique_id": "AgADOhEAAvHIgFA",
+        "file_name": "@APKFULL2000 FIREWALL NO ROOT.apk",
+        "mime_type": "application/vnd.android.package-archive",
+        "file_size": 9339240,
+        "date": "2022-12-07 00:27:12",
+        "thumbs": [
+            {
+                "_": "Thumbnail",
+                "file_id": "AAMCBAADGQEAAgGgZBoktkdyQ3tOxaLr6OatSWyVKyEAAjoRAALxyIBQq8brOky6xZ0ACAEAB20ABx4E",
+                "file_unique_id": "AgADOhEAAvHIgFA",
+                "width": 320,
+                "height": 320,
+                "file_size": 23292
+            }
+        ]
+    },
+    "caption": "�📱 : FIREWALL NO ROOT\n════════════════════\🆚🆚 : 2.2.3\n════════════════════\n☑ : PRO MOD EXTRA \n════════════════════\nℹ️ : El firewall seguro del mundo que cabe en tu bolsillo\n════════════════════\n�🔗 Link: https://play.google.com \n════════════════════\📲📲| @APKFULL2000\n════════════════\n ➖➖ 🎖 COMMUNITY 🎖➖➖➖",
+    "views": 23106,
+    "forwards": 24,
+    "outgoing": false
+}

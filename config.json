@@ -1,0 +1,18 @@
+{
+    "dev":{
+        "owner" : 1028272649,
+        "api_id" : 8261024,
+        "api_hash" : "9ae649018806673ef946ebf228e8625b",
+        "BOT_TOKEN" : "6106476283:AAEXsd3J8_PDzOKApLAE0h5nVMN7zzYxfBY"
+    },
+    "nube":{
+        "zip_size" : 4096,
+        "user" : "maralonso",
+        "password" : "lorena#5",
+        "url" : "https://nube.uclv.cu/"
+    },
+    "mega":{
+        "user" : "yanco148@gmail.com",
+        "password" : "yancarlos1482005"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "_": "Message",
+    "id": 415,
+    "from_user": {
+        "_": "User",
+        "id": 1028272649,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "is_premium": false,
+        "first_name": "Fox",
+        "status": "UserStatus.RECENTLY",
+        "username": "WolfBanner",
+        "language_code": "es",
+        "dc_id": 1,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADzacxGwkySj0AEAIAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "small_photo_unique_id": "AgADzacxGwkySj0",
+            "big_file_id": "AQADAQADzacxGwkySj0AEAMAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "big_photo_unique_id": "AgADzacxGwkySj0"
+        }
+    },
+    "date": "2023-03-21 22:40:02",
+    "chat": {
+        "_": "Chat",
+        "id": 1028272649,
+        "type": "ChatType.PRIVATE",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "WolfBanner",
+        "first_name": "Fox",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADzacxGwkySj0AEAIAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "small_photo_unique_id": "AgADzacxGwkySj0",
+            "big_file_id": "AQADAQADzacxGwkySj0AEAMAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "big_photo_unique_id": "AgADzacxGwkySj0"
+        },
+        "dc_id": 1
+    },
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "media": "MessageMediaType.STICKER",
+    "has_protected_content": false,
+    "sticker": {
+        "_": "Sticker",
+        "file_id": "CAACAgIAAxkBAAIBn2QaJDL7A1FFqsuucHSh3OcAAaBbrAACmxgAAl7EUEhGFnSKyMduEh4E",
+        "file_unique_id": "AgADmxgAAl7EUEg",
+        "file_name": "AnimatedSticker.tgs",
+        "mime_type": "application/x-tgsticker",
+        "file_size": 24645,
+        "date": "2022-02-14 09:06:05",
+        "width": 512,
+        "height": 512,
+        "is_animated": true,
+        "is_video": false,
+        "emoji": "�😚",
+        "set_name": "JayAndNana",
+        "thumbs": [
+            {
+                "_": "Thumbnail",
+                "file_id": "AAMCAgADGQEAAgGfZBokMvsDUUWqy65wdKHc5wABoFusAAKbGAACXsRQSEYWdIrIx24SAAgBAAdtAAceBA",
+                "file_unique_id": "AgADmxgAAl7EUEg",
+                "width": 128,
+                "height": 128,
+                "file_size": 6876
+            }
+        ]
+    },
+    "outgoing": false
+}

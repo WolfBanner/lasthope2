@@ -1,0 +1,110 @@
+{
+    "_": "Message",
+    "id": 421,
+    "from_user": {
+        "_": "User",
+        "id": 1028272649,
+        "is_self": false,
+        "is_contact": false,       
+        "is_mutual_contact": false,
+        "is_deleted": false,       
+        "is_bot": false,
+        "is_verified": false,      
+        "is_restricted": false,    
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,       
+        "is_premium": false,       
+        "first_name": "Fox",
+        "status": "UserStatus.RECENTLY",
+        "username": "WolfBanner",
+        "language_code": "es",
+        "dc_id": 1,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADzacxGwkySj0AEAIAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "small_photo_unique_id": "AgADzacxGwkySj0",
+            "big_file_id": "AQADAQADzacxGwkySj0AEAMAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "big_photo_unique_id": "AgADzacxGwkySj0"
+        }
+    },
+    "date": "2023-03-21 22:49:16",
+    "chat": {
+        "_": "Chat",
+        "id": 1028272649,
+        "type": "ChatType.PRIVATE",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "WolfBanner",
+        "first_name": "Fox",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADzacxGwkySj0AEAIAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "small_photo_unique_id": "AgADzacxGwkySj0",
+            "big_file_id": "AQADAQADzacxGwkySj0AEAMAAwkySj0ABO_abh8N4yl2AAQeBA",
+            "big_photo_unique_id": "AgADzacxGwkySj0"
+        },
+        "dc_id": 1
+    },
+    "forward_from_chat": {
+        "_": "Chat",
+        "id": -1001493364540,
+        "type": "ChatType.CHANNEL",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_creator": false,
+        "is_scam": false,
+        "is_fake": false,
+        "title": "��💛💛CaritoFlash Ofica💚💚💙💙",
+        "username": "Caritonya",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADp6oxG4sH6EUAEAIAA8QAAVjSFv___6verXB1StX1AAQeBA",
+            "small_photo_unique_id": "AgADp6oxG4sH6EU",
+            "big_file_id": "AQADAQADp6oxG4sH6EUAEAMAA8QAAVjSFv___6verXB1StX1AAQeBA",
+            "big_photo_unique_id": "AgADp6oxG4sH6EU"
+        },
+        "dc_id": 1,
+        "has_protected_content": false
+    },
+    "forward_from_message_id": 13729,
+    "forward_signature": "TíoFlash & CaritoSama",
+    "forward_date": "2023-03-20 21:12:47",
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "media": "MessageMediaType.VIDEO",
+    "has_protected_content": false,
+    "has_media_spoiler": false,
+    "video": {
+        "_": "Video",
+        "file_id": "BAACAgEAAxkBAAIBpWQaJlyGvmyXUPOZlowrg0cFINmRAAJtAwACcwLARGiRkSTnmwQbHgQ",
+        "file_unique_id": "AgADbQMAAnMCwEQ",
+        "width": 1280,
+        "height": 720,
+        "duration": 1420,
+        "file_name": "[AnimeFlash] Monotaga - 11.mp4",
+        "mime_type": "video/mp4",
+        "file_size": 157393424,
+        "supports_streaming": true,
+        "date": "2023-03-20 21:12:47",
+        "thumbs": [
+            {
+                "_": "Thumbnail",
+                "file_id": "AAMCAQADGQEAAgGlZBomXIa-bJdQ85mWjCuDRwUg2ZEAAm0DAAJzAsBEaJGRJOebBBsACAEAB20ABx4E",
+                "file_unique_id": "AgADbQMAAnMCwEQ",
+                "width": 320,
+                "height": 180,
+                "file_size": 13753
+            }
+        ]
+    },
+    "caption": "►Mononogatari ⇨ Capitulo 11 Sub Español HD",
+    "views": 3128,
+    "forwards": 25,
+    "outgoing": false
+}
+
