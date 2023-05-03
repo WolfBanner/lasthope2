@@ -324,7 +324,7 @@ class Bot():
                 #mult_file.close()
                 for file in multiFile.files:
                     await msg.edit(self.upload_msg.format(str(file_name), str(humanize.naturalsize(file_size)), len(multiFile.files) + 1 if (len(multiFile.files)) == 0 else len(multiFile.files)))
-                    nex = NexCloudClient(self.cfg.alteruser, self.cfg.alterpassword)
+                    nex = NexCloudClient(self.cfg.user, self.cfg.password)
                     print(file)
                     resp = asyncio.create_task(
                         nex.upload_file(file_path, timeout))
@@ -334,7 +334,7 @@ class Bot():
                 await msg.edit(self.uploaded_msg.format(str(file_name), str(humanize.naturalsize(file_size)), "OK"))
             else:
                 await msg.edit(self.upload_msg.format(str(file_name), str(humanize.naturalsize(file_size)), "Uploading"))
-                nex = NexCloudClient(self.cfg.alteruser, self.cfg.alterpassword)
+                nex = NexCloudClient(self.cfg.user, self.cfg.password)
                 free, used, total, used_percent = await nex.GetSpace()
                 if free >= file_size:
                     print(file_name)
