@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 import uuid
 import asyncio
 import os
-from tqdm import tqdm
 from search import buscar_archivo
 
 
@@ -139,13 +138,13 @@ class NexCloudClient:
         except:
             print(f"Error al obtener el requests token en la def upload_file {traceback.format_exc()}")
                
-async def main():
-    #Crea una instancia de NexCloudClient
-    client = NexCloudClient(user='llmoreno', password='l56488851*')
-    print("Logueado y subiendo")
-    file_name = ''
-    x = await client.upload_file('./aria2c.exe',20)
-    print(x)
+#async def main():
+#    #Crea una instancia de NexCloudClient
+#    client = NexCloudClient(user='llmoreno', password='l56488851*')
+#    print("Logueado y subiendo")
+#    file_name = ''
+#    x = await client.upload_file('./aria2c.exe',20)
+#    print(x)
 
-loop = asyncio.get_event_loop()
-loop.run_until_complete(main())
+#loop = asyncio.get_event_loop()
+#loop.run_until_complete(main())
