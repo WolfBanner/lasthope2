@@ -13,7 +13,7 @@ class Config():
         ### Nube
         self.zip_size = 4096
         self.user = "maralonso"
-        self.password = "lorena#5"
+        self.password = "legolas#1"
         self.url = "https://nube.uclv.cu/"
         self.waitTime = 1800
         
